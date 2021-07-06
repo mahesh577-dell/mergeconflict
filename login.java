@@ -2,7 +2,7 @@ public class login
  {
 	 public static void main(String args[])
 	 {
-		 a=10;
+		 a=300;
 	 }
  }
 
